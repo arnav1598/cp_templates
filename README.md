@@ -1,2 +1,2 @@
 # Description
-This repository contains code templates for competetive programming.
+This repository contains code templates for competitive programming.
